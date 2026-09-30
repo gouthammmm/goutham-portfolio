@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="gd-wordmark" viewBox="0 0 500 110" role="img" aria-label="Aftertide wordmark and lighthouse emblem">
+      <g fill="none" stroke="#f3b46a" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M40 72 52 32h24l12 40M47 54h38M55 32V21h18v11M50 20l-10-8M78 20l10-8" stroke-width="3" />
+        <path d="M31 82c14 7 28 7 42 0s28-7 42 0M37 91c12 5 24 5 36 0s24-5 36 0" stroke-width="2" opacity=".7" />
+      </g>
+      <text x="136" y="62" fill="#f2eee5" font-family="Georgia,serif" font-size="44" letter-spacing="5">AFTERTIDE</text>
+      <text x="141" y="87" fill="#63c9bd" font-family="ui-monospace,monospace" font-size="11" letter-spacing="4">THE SIGNAL IN THE FOG</text>
+    </svg>

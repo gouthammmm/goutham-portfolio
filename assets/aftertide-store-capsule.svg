@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" role="img" aria-label="Wide Aftertide game-store capsule with lighthouse key art and title">
+      <defs>
+        <linearGradient id="cap-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141d2b"/><stop offset=".55" stop-color="#364452"/><stop offset="1" stop-color="#a0785e"/></linearGradient>
+        <linearGradient id="cap-water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#54716f"/><stop offset="1" stop-color="#172331"/></linearGradient>
+      </defs>
+      <rect width="960" height="380" fill="url(#cap-bg)" />
+      <circle cx="730" cy="122" r="69" fill="#e8c18d" opacity=".84" />
+      <path d="M0 206c150-38 211 13 346-12s203-35 322 1 187 22 292-7v192H0Z" fill="#202b3b" />
+      <path d="M0 267c183-27 247 28 412 3s309-18 548 12v98H0Z" fill="url(#cap-water)" />
+      <g fill="#172231" stroke="#64706f" stroke-opacity=".55" stroke-width="2"><path d="M320 268v-38l20-17 22 17v38Zm45 0v-52l24-20 25 20v52Zm55 0v-34l20-15 21 15v34Zm167 5v-47l22-18 24 18v52Zm51 3v-60l27-20 29 20v65Zm-95-7v-29l17-13 18 13v32Z"/></g>
+      <g fill="#f0c38a" opacity=".72"><rect x="331" y="242" width="6" height="10"/><rect x="348" y="242" width="6" height="10"/><rect x="377" y="225" width="7" height="11"/><rect x="397" y="225" width="7" height="11"/><rect x="415" y="240" width="6" height="9"/><rect x="614" y="241" width="6" height="10"/><rect x="638" y="235" width="7" height="11"/><rect x="661" y="235" width="7" height="11"/></g>
+      <path d="m710 227 12-91h32l17 91Z" fill="#d9c8ab" />
+      <path d="m705 136 33-22 31 22Z" fill="#f2e1bf" />
+      <path d="M739 147h11v20h-11Z" fill="#ffdc9e" />
+      <path d="M0 300c143-22 236 29 378 8s264-8 582 20" fill="none" stroke="#c6b895" stroke-opacity=".35" stroke-width="3" />
+      <path d="M672 241 510 279m167-38 210 38" fill="none" stroke="#f3c789" stroke-opacity=".22" stroke-width="2"/>
+      <g fill="none" stroke="#d0d7cc" stroke-opacity=".2" stroke-width="2"><path d="M35 325c53-8 99-7 151 0m92 17c52-8 96-7 145 1m262-21c64-5 121-2 185 8"/><path d="M460 354c36 4 71 3 106-3m-485-5c30 2 59 1 87-3" stroke="#f0c38a" stroke-opacity=".24"/></g>
+      <path d="M45 55h210" stroke="#63c9bd" stroke-width="4" />
+      <text x="45" y="92" fill="#c9d7d1" font-family="ui-monospace,monospace" font-size="13" letter-spacing="4">A STORY-DRIVEN ADVENTURE</text>
+      <text x="40" y="180" fill="#f4eee1" font-family="Georgia,serif" font-size="57" letter-spacing="6">AFTERTIDE</text>
+      <text x="47" y="220" fill="#e6c995" font-family="ui-monospace,monospace" font-size="14" letter-spacing="2">THE SEA KEEPS WHAT THE CITY FORGETS.</text>
+      <rect x="47" y="264" width="143" height="40" rx="20" fill="#63c9bd" />
+      <text x="72" y="290" fill="#101725" font-family="ui-monospace,monospace" font-size="12" font-weight="700" letter-spacing="1">DISCOVER THE GAME</text>
+      <text x="48" y="343" fill="#c9d7d1" font-family="ui-monospace,monospace" font-size="10" letter-spacing="3">STORE CAPSULE · CONCEPT</text>
+    </svg>

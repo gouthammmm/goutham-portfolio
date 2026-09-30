@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="gd-keyart-svg" viewBox="0 0 720 900" role="img" aria-labelledby="aftertide-art-title aftertide-art-desc">
+      <title id="aftertide-art-title">Aftertide launch poster concept</title>
+      <desc id="aftertide-art-desc">A lighthouse sends a warm beam across a misty, flooded island town beneath a pale moon.</desc>
+      <defs>
+        <linearGradient id="at-sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#101725"/><stop offset=".53" stop-color="#233047"/><stop offset="1" stop-color="#775c58"/></linearGradient>
+        <radialGradient id="at-moon"><stop stop-color="#fff0c9"/><stop offset=".72" stop-color="#eac28d"/><stop offset="1" stop-color="#d9986c"/></radialGradient>
+        <radialGradient id="at-glow"><stop stop-color="#f6bd78" stop-opacity=".52"/><stop offset="1" stop-color="#f6bd78" stop-opacity="0"/></radialGradient>
+        <linearGradient id="at-sea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#344956"/><stop offset="1" stop-color="#111d2a"/></linearGradient>
+        <linearGradient id="at-beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f6c37e" stop-opacity=".02"/><stop offset=".9" stop-color="#ffe6aa" stop-opacity=".2"/><stop offset="1" stop-color="#fff4d2" stop-opacity=".46"/></linearGradient>
+        <linearGradient id="at-tower" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c4ad91"/><stop offset=".5" stop-color="#eee0c4"/><stop offset="1" stop-color="#927968"/></linearGradient>
+        <linearGradient id="at-glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff1c5"/><stop offset=".48" stop-color="#f5c27d"/><stop offset="1" stop-color="#704e45"/></linearGradient>
+        <linearGradient id="at-reflection" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd594" stop-opacity=".5"/><stop offset="1" stop-color="#f6bd78" stop-opacity="0"/></linearGradient>
+        <filter id="at-soft"><feGaussianBlur stdDeviation="24"/></filter>
+        <filter id="at-light"><feGaussianBlur stdDeviation="8"/></filter>
+        <filter id="at-grain"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values=".3 0 0 0 .4 .3 0 0 0 .4 .3 0 0 0 .4 0 0 0 .12 0"/></filter>
+      </defs>
+      <rect width="720" height="900" fill="url(#at-sky)" />
+      <g fill="#dbe6e2" opacity=".48"><circle cx="84" cy="111" r="1.7"/><circle cx="177" cy="79" r="1.2"/><circle cx="267" cy="132" r="1.4"/><circle cx="339" cy="89" r="1"/><circle cx="615" cy="103" r="1.7"/><circle cx="652" cy="162" r="1.1"/><circle cx="104" cy="221" r="1.1"/><circle cx="282" cy="193" r="1.4"/><circle cx="580" cy="342" r="1.2"/><circle cx="687" cy="289" r="1.5"/></g>
+      <ellipse cx="510" cy="245" rx="215" ry="205" fill="url(#at-glow)" filter="url(#at-soft)" />
+      <circle cx="510" cy="245" r="99" fill="#f2c993" opacity=".11" filter="url(#at-light)" />
+      <circle cx="510" cy="245" r="84" fill="url(#at-moon)" />
+      <path d="M478 203c17-17 44-23 68-14m-76 32c12-12 25-18 40-20" fill="none" stroke="#fff3d6" stroke-opacity=".38" stroke-width="2" />
+      <path d="M0 273c95-52 153 10 226-13s125-63 219-21 150 4 275-34v146H0Z" fill="#445064" opacity=".32" />
+      <path d="M0 337c104-49 174-13 270-39s137-17 207 7 143-11 243-48v122H0Z" fill="#192638" opacity=".78" />
+      <path d="M0 424c115-34 199-4 283-44s142-20 208-2 146-3 229-42v144H0Z" fill="#182435" />
+      <path d="M0 469c64-40 98-39 149-31v87H0Zm580-44c52-25 96-28 140-7v112H580Z" fill="#111b29" />
+      <g fill="#111824" stroke="#45505b" stroke-width="2" stroke-linejoin="round">
+        <path d="M18 549v-48l25-20 26 20v49Zm57 0v-65l31-25 34 25v68Zm72 0v-44l28-22 29 22v47Zm406 2v-54l29-24 30 24v55Zm62 0v-72l35-28 39 28v75Zm-122 0v-45l24-18 25 18v48Z" />
+        <path d="M31 500 43 487l14 13m57-15 18 14m420 2 17-14 18 14m47-16 21-17 23 18" fill="none" stroke="#89918e" stroke-opacity=".6" stroke-width="2"/>
+        <path d="M213 547v-28l17-15 18 15v30m-35-27 35 0m-18-18v46M536 549v-28l17-15 18 15v31m-35-28h35m-18-18v46" fill="none" stroke="#697681" stroke-width="2"/>
+      </g>
+      <g fill="#f2bc78" opacity=".78"><rect x="34" y="514" width="7" height="12"/><rect x="54" y="514" width="7" height="12"/><rect x="91" y="508" width="8" height="13"/><rect x="119" y="508" width="8" height="13"/><rect x="163" y="520" width="7" height="11"/><rect x="588" y="510" width="7" height="12"/><rect x="609" y="510" width="7" height="12"/><rect x="648" y="500" width="8" height="13"/><rect x="678" y="500" width="8" height="13"/><rect x="544" y="520" width="7" height="11"/></g>
+      <g fill="none" stroke="#93a7aa" stroke-opacity=".34" stroke-width="2"><path d="M19 555h188m332 0h165"/><path d="M43 562v19m34-19v16m95-16v12m375-12v16m43-16v20m33-20v14"/></g>
+      <path d="M0 565c90-23 146-18 228 4s149 23 242-3 158-25 250-3v337H0Z" fill="url(#at-sea)" />
+      <path d="M287 617c29-19 67-24 101-14 21 6 34 18 58 17 24-1 44-14 77-10l22 18H270Z" fill="#111b28" />
+      <path d="M302 619c35-11 67-10 100 0m61 2c19-8 39-10 60-8" fill="none" stroke="#677b7d" stroke-opacity=".58" stroke-width="3" />
+      <path d="M401 494 65 598l-6 25 362-103Z" fill="url(#at-beam)" />
+      <path d="M401 494 646 568l9 18-271-68Z" fill="url(#at-beam)" opacity=".64" />
+      <path d="M404 501 74 599m331-97 231 69" fill="none" stroke="#ffdfa8" stroke-opacity=".32" stroke-width="1.5" />
+      <path d="M392 611c17 26 25 53 27 90 1 35-7 66-3 96h37c-10-47-1-95-7-137-4-24-10-41-15-49Z" fill="url(#at-reflection)" opacity=".35" />
+      <path d="m357 614 20-148h51l25 148Z" fill="url(#at-tower)" />
+      <path d="m350 466 29-27h48l30 27Z" fill="#d6c5aa" />
+      <path d="M373 438v-24h54v24m-62-26 35-15 35 15Z" fill="#d7c8b0" />
+      <path d="M385 424v-8h30v8" stroke="#3e4650" stroke-width="5" />
+      <path d="M378 441h44v16h-44Z" fill="url(#at-glass)" />
+      <path d="M389 441v16m22-16v16m-34-11h44" stroke="#514d49" stroke-width="2" />
+      <path d="M373 438v-24h54m-62-2h70m-67 54h64" fill="none" stroke="#847665" stroke-width="2" />
+      <path d="M393 439h15v19h-15Z" fill="#fff0b8" filter="url(#at-light)" opacity=".8" />
+      <path d="M393 439h15v19h-15Z" fill="#ffdc9e" />
+      <path d="M380 496h9v23h-9Zm34 0h9v23h-9Zm-34 46h9v23h-9Zm34 0h9v23h-9Z" fill="#263240" opacity=".85" />
+      <path d="M377 474h7m29 0h8m-47 29 9-2m33 2 9 2m-49 33 8-1m34 1 9 2m-55 34 8-1m41 1 8 1" stroke="#f3e0bf" stroke-opacity=".56" stroke-width="2" />
+      <path d="M0 631c77-17 135 18 219 13s121-37 199-20 146 42 302 6M0 685c88-24 144 31 235 12s133-25 205 1 149 23 280 0M0 756c92-25 171 26 266 5s153-18 241 5 139 18 213-5" fill="none" stroke="#a4bbb5" stroke-opacity=".25" stroke-width="3" />
+      <path d="M350 648c40-7 84-7 126 0M324 674c59-9 131-8 195 1M338 710c47-5 97-5 144 1" fill="none" stroke="#f0bd7b" stroke-opacity=".43" stroke-width="2" />
+      <g fill="none" stroke="#d2d6c8" stroke-opacity=".21" stroke-width="1.5"><path d="M42 644c58-10 100-7 147 2m283-13c62-9 114-7 172 4M78 716c34 4 63 3 97-2m366 19c46 5 86 4 132-4M174 789c39 3 76 2 113-4m193-3c32 5 68 6 104 3"/><path d="M129 671c23 2 42 0 62-4m255 31c28-1 53 1 79 6m-326 38c22 1 44-1 66-5" stroke="#f5c47e" stroke-opacity=".27"/></g>
+      <path d="M0 811h720v89H0Z" fill="#101725" opacity=".9" />
+      <text x="45" y="63" fill="#c9d7d1" font-family="ui-monospace,monospace" font-size="12" letter-spacing="3">A STORY-DRIVEN ADVENTURE</text>
+      <path d="M45 754h47" stroke="#63c9bd" stroke-width="3" />
+      <text x="45" y="784" fill="#63c9bd" font-family="ui-monospace,monospace" font-size="12" letter-spacing="4">THE COAST HAS GONE QUIET</text>
+      <text x="43" y="859" fill="#f4eee1" font-family="Georgia,serif" font-size="57" letter-spacing="7">AFTERTIDE</text>
+      <text x="48" y="884" fill="#c9d7d1" font-family="ui-monospace,monospace" font-size="10" letter-spacing="3">FICTIONAL GAME · LAUNCH CAMPAIGN CONCEPT</text>
+      <rect width="720" height="900" filter="url(#at-grain)" opacity=".22" />
+    </svg>

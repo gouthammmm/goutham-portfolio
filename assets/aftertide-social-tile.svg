@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" role="img" aria-label="Square social campaign tile reading The city sank. The signal didn't.">
+      <defs>
+        <linearGradient id="social-sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#172033"/><stop offset="1" stop-color="#6b5553"/></linearGradient>
+        <linearGradient id="social-sea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#435a62"/><stop offset="1" stop-color="#111a29"/></linearGradient>
+      </defs>
+      <rect width="520" height="520" fill="url(#social-sky)" />
+      <circle cx="350" cy="172" r="84" fill="#ecc895" opacity=".82" />
+      <path d="M0 274c81-21 146 7 228-11s165-17 292 6v251H0Z" fill="url(#social-sea)" />
+      <g fill="#182332" stroke="#7d8982" stroke-opacity=".5" stroke-width="2"><path d="M30 298v-32l18-15 19 15v32Zm42 0v-48l21-17 22 17v49Zm47 1v-32l18-14 18 14v33Zm230-3v-31l17-14 18 14v31Zm45 0v-46l21-17 22 17v46Zm48 2v-30l17-12 17 12v30Z"/></g>
+      <g fill="#f2c18a" opacity=".66"><rect x="41" y="269" width="6" height="9"/><rect x="58" y="269" width="6" height="9"/><rect x="82" y="251" width="6" height="10"/><rect x="102" y="251" width="6" height="10"/><rect x="366" y="278" width="6" height="9"/><rect x="391" y="260" width="7" height="10"/><rect x="414" y="260" width="7" height="10"/><rect x="459" y="278" width="6" height="9"/></g>
+      <path d="m348 305 10-82h28l15 82Z" fill="#d9c8ab" />
+      <path d="m343 224 29-20 29 20Z" fill="#f2e1bf" />
+      <path d="M365 235h11v18h-11Z" fill="#ffdc9e" />
+      <path d="M0 341c88-20 152 21 249 6s177-7 271 15M0 408c92-18 163 20 256 9s177-10 264 10" fill="none" stroke="#c9d7d1" stroke-opacity=".3" stroke-width="2" />
+      <path d="M342 316 194 341m151-25 160 26" fill="none" stroke="#f3c789" stroke-opacity=".26" stroke-width="2"/>
+      <rect width="520" height="520" fill="#101725" opacity=".2" />
+      <text x="30" y="42" fill="#c9d7d1" font-family="ui-monospace,monospace" font-size="10" letter-spacing="3">AFTERTIDE · CAMPAIGN CONCEPT</text>
+      <text x="30" y="468" fill="#f4eee1" font-family="Georgia,serif" font-size="27" letter-spacing="1">THE CITY SANK.</text>
+      <text x="30" y="500" fill="#63c9bd" font-family="Georgia,serif" font-size="27" letter-spacing="1">THE SIGNAL DIDN’T.</text>
+    </svg>
