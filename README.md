@@ -15,4 +15,4 @@ The portfolio links to public repositories on [GitHub](https://github.com/goutha
 - `index.html` — page content, project cards, and creative showcases
 - `styles.css` — responsive layout and visual styling
 
-The portfolio includes local AI Commerce screenshots and the VELORA campaign image so they are served directly by GitHub Pages. The campaign image was generated with Adobe Firefly for a fictional independent project. Shopify Admin API access in the live demo requires server credentials; checkout there is simulated. Aftertide is a separate fictional visual-design concept.
+The portfolio includes local AI Commerce screenshots and an optimized VELORA campaign image (`assets/velora-campaign-still.jpg`) so they are served directly by GitHub Pages. The VELORA image was generated with Adobe Firefly for a fictional independent project. Shopify Admin API access in the live demo requires server credentials; checkout there is simulated. Aftertide is a separate fictional visual-design concept.
